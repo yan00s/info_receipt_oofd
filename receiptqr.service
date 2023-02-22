@@ -1,0 +1,8 @@
+[Unit]
+Description=run bot receiptqr
+
+[Service]
+ExecStart=/usr/bin/bash -c 'python3.9 /root/info_receipt_qr/receiptqr.py'
+
+[Install]
+WantedBy=multi-user.target

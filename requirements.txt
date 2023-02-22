@@ -1,0 +1,6 @@
+fake_headers==1.0.2
+opencv_python==4.7.0.68
+pyTelegramBotAPI==4.10.0
+python-dotenv==0.21.1
+pyzbar==0.1.9
+requests==2.28.1
