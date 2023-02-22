@@ -5,7 +5,7 @@ Installation:
     pip install -r requirements.txt
     put token api tg bot with key "api_tg_qr" to .env
 
-    maybe you need additional intall packets (you can find packets in file "maybe_need.txt")
+maybe you need additional intall packets (you can find packets in file "maybe_need.txt")
 
 
 Setup service:
